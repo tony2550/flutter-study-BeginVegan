@@ -14,10 +14,31 @@
 
 ![section1](https://capsule-render.vercel.app/api?type=soft&color=75c8f8&fontColor=fff&text=Section1&height=100&fontSize=40)
 
+## 😂 random joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=29579d&fontColor=fff&text=Members&height=100&fontSize=40&animation=twinkling)
 
-<a href="https://github.com/tony2550/flutter-study-BeginVegan/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan" />
-</a>
+![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
+
+## Contributors
+
+---
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
