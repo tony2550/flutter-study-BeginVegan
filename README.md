@@ -5,7 +5,7 @@
 <!-- Bedge Start -->
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
 
 </div>
 <!-- Bedge End -->
@@ -33,11 +33,13 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-### Now contrib.rocks update test...
+## Now contrib.rocks update test...
 
 ### VER.1
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
+
+#### - 컨트리뷰터 2명 업데이트 확인완료 (다음날 업데이트가 됨)
 
 ---
 
@@ -46,5 +48,9 @@
 <a href="https://github.com/tony2550/flutter-study-BeginVegan/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan" />
 </a>
+
+#### - contributors 페이지로 이동 링크 추가 버전
+
+#### - 컨트리뷰터 업데이트가 되는지 확인 안됨
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
