@@ -5,7 +5,7 @@
 <!-- Bedge Start -->
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&link=https://flutter-ko.dev)](https://flutter-ko.dev/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)](https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
 
 </div>
 <!-- Bedge End -->
