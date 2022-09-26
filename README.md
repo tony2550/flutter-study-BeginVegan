@@ -5,7 +5,7 @@
 <!-- Bedge Start -->
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
 
 </div>
 <!-- Bedge End -->
@@ -22,12 +22,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=29579d&fontColor=fff&text=Members&height=100&fontSize=40&animation=twinkling)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
-
-## Contributors
-
----
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -39,6 +33,18 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+### Now contrib.rocks update test...
+
+### VER.1
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
+
+---
+
+### VER.2
+
+<a href="https://github.com/tony2550/flutter-study-BeginVegan/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan" />
+</a>
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
