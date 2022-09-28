@@ -1,8 +1,56 @@
-# 집단지성의 방 Flutter 스터디
-<br/>
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=75c8f8&text=Flutter%20Study&height=150&fontSize=60&desc=집단지성의%20방&descAlignY=78&descAlign=64)
 
+---
 
-<details>
-<summary> 기초개념 정리 </summary>
-- [다트언어의 특징](./harudee/1.1%20%EB%8B%A4%ED%8A%B8%EC%96%B8%EC%96%B4%EC%9D%98%20%ED%8A%B9%EC%A7%95.md)
-</details>
+<!-- Bedge Start -->
+<div align="center">
+
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&link=https://flutter-ko.dev)](https://flutter-ko.dev/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)](https://jungspin.notion.site/7c6de6b9e20f43c8aacff8cb64ea414e)
+
+</div>
+<!-- Bedge End -->
+
+---
+
+![section1](https://capsule-render.vercel.app/api?type=soft&color=75c8f8&fontColor=fff&text=Section1&height=100&fontSize=40)
+
+## 😂 random joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=29579d&fontColor=fff&text=Members&height=100&fontSize=40&animation=twinkling)
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+## Now contrib.rocks update test...
+
+### VER.1
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
+
+#### - 컨트리뷰터 2명 업데이트 확인완료 (다음날 업데이트가 됨)
+
+---
+
+### VER.2
+
+<a href="https://github.com/tony2550/flutter-study-BeginVegan/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan" />
+</a>
+
+#### - contributors 페이지로 이동 링크 추가 버전
+
+#### - 컨트리뷰터 업데이트가 되는지 확인 안됨
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
