@@ -14,9 +14,7 @@
 
 ![section1](https://capsule-render.vercel.app/api?type=soft&color=75c8f8&fontColor=fff&text=Section1&height=100&fontSize=40)
 
-## 😂 random joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+-   1주차 : [1주차수우우터디링크](링크예시)
 
 ---
 
@@ -33,24 +31,8 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-## Now contrib.rocks update test...
-
-### VER.1
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan)
-
-#### - 컨트리뷰터 2명 업데이트 확인완료 (다음날 업데이트가 됨)
-
----
-
-### VER.2
-
 <a href="https://github.com/tony2550/flutter-study-BeginVegan/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tony2550/flutter-study-BeginVegan" />
 </a>
-
-#### - contributors 페이지로 이동 링크 추가 버전
-
-#### - 컨트리뷰터 업데이트가 되는지 확인 안됨
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
