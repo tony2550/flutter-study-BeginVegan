@@ -14,7 +14,7 @@
 
 ![section1](https://capsule-render.vercel.app/api?type=soft&color=75c8f8&fontColor=fff&text=Section1&height=100&fontSize=40)
 
--   1주차 : [1주차수우우터디링크](링크예시)
+-   1주차 : [1주차수우우터디](#1주차/2022-10-10.md)
 
 ---
 
