@@ -1,4 +1,4 @@
-# Dart 문법 알아보기1
+# Dart 문법 알아보기1 - 변수
 
 </br>
 
@@ -117,6 +117,10 @@ dy1 = 10.2;
 print(dy1.runtimeType); // double
 ```
 
+</br>
+
 # References
+
+</br>
 
 [이지업클래스 | 모두를 위한 온라인 IT CLASS](https://easyupclass.e-itwill.com/course/course_view.jsp?id=28&rtype=0&ch=course)
