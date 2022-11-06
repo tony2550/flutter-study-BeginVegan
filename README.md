@@ -16,6 +16,10 @@
 
 -   1주차 : [1주차수우우터디](https://github.com/tony2550/flutter-study-BeginVegan/blob/main/1%EC%A3%BC%EC%B0%A8/2022-10-10.md)
 
+-   2주차 : [2주차수우우터디](https://github.com/tony2550/flutter-study-BeginVegan/blob/701b2bd73f44d764b22695abf3b37639acb272e3/2%EC%A3%BC%EC%B0%A8/2022-10-12.md)
+
+-   3주차 : [3주차수우우터디](https://github.com/tony2550/flutter-study-BeginVegan/blob/701b2bd73f44d764b22695abf3b37639acb272e3/3%EC%A3%BC%EC%B0%A8/2022-10-27.md)
+
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=29579d&fontColor=fff&text=Members&height=100&fontSize=40&animation=twinkling)
